@@ -1,4 +1,5 @@
 import { useState } from 'React';
+import React from 'react';
 
 export default function SloganForm(props) {
   // React forms are a pain! 
